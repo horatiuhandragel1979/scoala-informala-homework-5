@@ -12,7 +12,10 @@ import java.util.Scanner;
 public class DuplicateRemoval {
     public static void main(String[] args) {
 
-        //introducem de la tastatura sirul de numere intregi
+        /**
+         * input the string of integers from the keyboard
+         */
+
 
         System.out.println("Introdu lungimea sirului: ");
         Scanner sc = new Scanner(System.in);
@@ -23,19 +26,25 @@ public class DuplicateRemoval {
             arr[i] = sc.nextInt();
         }
         sc.close();
-        Arrays.sort(arr);       // aseaza in ordine crescatoare toate elementele unei matrice
+
+        /**
+         * the Arrays.sort() puts all elements of a matrix in ascending order
+         */
+        Arrays.sort(arr);
         System.out.println("Acesta este sirul dupa eliminarea dublurilor:");
         int length = arr.length;
         length = removeDuplicateElements(arr, length);
 
-        //afisam elementele sirului, fara dubluri
+        /**
+         * we display the elements of the string, without duplicates
+         */
 
         for (int i = 0; i < length; i++)
             System.out.println(arr[i] + "  ");
     }
 
-    /*
-    metoda identifica dublurile din sirul de numere
+    /**
+     *the method identifies duplicates in the string
      */
 
     public static int removeDuplicateElements(int arr[], int n){

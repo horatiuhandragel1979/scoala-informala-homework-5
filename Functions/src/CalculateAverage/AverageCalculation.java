@@ -18,9 +18,8 @@ public class AverageCalculation {
     }
 
 
-    /*
-    metoda ne permite sa introducem un sir de lemente
-    si calculeaza media aritmetica a acestora
+    /**
+     *     the method allows us to introduce a series of elements and calculates their average
      */
     public static void inputArray() {
 

@@ -12,7 +12,9 @@ public class CalculateMax {
 
     public static void main(String[] args) {
 
-// introducem de la tastatura cele 3 numere intregi
+/**
+ * insert from the keyboard the three integer numbers
+ */
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduceti primul numar intreg: ");
@@ -31,8 +33,8 @@ public class CalculateMax {
 
     }
 
-    /*
-    metoda identifica care este cel mai mare numar dintre doua numere
+    /**
+     *    the method identifies which is the largest number between two numbers
      */
     public static int getMax(int x, int y) {
         return Math.max(x, y);

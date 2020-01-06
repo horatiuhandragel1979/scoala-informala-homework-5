@@ -23,7 +23,11 @@ public class FahrenheitToCelsiusConversion {
                     " grade Celsius" + "\n" +" You are ill !");
     }
 
-
+    /**
+     * convert the Fahrenheit degrees to Celsius degrees
+     * @param f
+     * @return
+     */
     public static double fahrenheitToCelsius(double f){
 
         return (f-32)*5/9;
