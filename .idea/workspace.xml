@@ -163,10 +163,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579462129450" />
-    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1579461986898">
+    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1579463177131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579461986898" />
+    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579463177131" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579461990879">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -183,17 +183,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579461990879" />
+    <state x="129" y="61" key="MergeDialog" timestamp="1579463233534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463233534" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1579463245770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463245770" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579461914986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579461914986" />
-    <state x="430" y="156" key="git4idea.merge.GitMergeDialog" timestamp="1579462899135">
+    <state x="430" y="156" key="git4idea.merge.GitMergeDialog" timestamp="1579463348689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="430" y="156" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579462899135" />
-    <state x="319" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579463135193">
+    <state x="430" y="156" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463348689" />
+    <state x="319" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579463206756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="319" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463135193" />
+    <state x="319" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463206756" />
   </component>
 </project>
