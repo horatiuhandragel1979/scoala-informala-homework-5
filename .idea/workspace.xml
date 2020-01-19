@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba27a8c2-42f2-47b6-ade1-945913c9df92" name="Default Changelist" comment="commit functions">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/CalculateAverage/AverageCalculation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/DataValidation/InputDataValidation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/FahrenheitToCelsius/FahrenheitToCelsiusConversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/Homework1/BiggestNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/Homework1/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/Homework1/IntegersSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/Homework1/PalindromNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/Homework1/RectangleOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/META-INF/scoala-informala-homework-5.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/MaxCalculate/CalculateMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/scoala-informala-homework-5/RemoveDuplicate/DuplicateRemoval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoala-informala-homework-5.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ba27a8c2-42f2-47b6-ade1-945913c9df92" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,8 +129,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579440233261</updated>
-      <workItem from="1579440236965" duration="3268000" />
+      <workItem from="1579440236965" duration="3580000" />
     </task>
+    <task id="LOCAL-00001" summary="commit all">
+      <created>1579463178771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579463178771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit all">
+      <created>1579463374384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579463374384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,17 +153,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit functions" />
+    <MESSAGE value="commit all" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1579462129450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579462129450" />
-    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1579463177131">
+    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1579463372530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579463177131" />
+    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579463372530" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579461990879">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,6 +189,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1579463245770" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579463498980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579463498980" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579461914986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
